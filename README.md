@@ -8,7 +8,7 @@
 
 ```bash
 git clone https://github.com/NiteshTyagi/food_tracker.git
-cd food_tracker
+cd food_tracker/project
 npm i --save-dev parcel
 ```
 
